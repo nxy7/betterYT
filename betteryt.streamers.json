@@ -2,11 +2,9 @@
   "streamers": [
     {
       "nick": "Noxy",
-      "id": "UCeenaJJpaLLRFMnfG0572Iw"
+      "id": "UCeenaJJpaLLRFMnfG0572Iw",
+      "donate": "https://tipply.pl/u/noxy",
+      "support": "https://www.youtube.com/channel/UCeenaJJpaLLRFMnfG0572Iw/join"
     },
-    {
-      "nick": "Majster",
-      "id": "UCmuoluJZNQlEGC2wUiIz2Mg"
-    }
   ]
 }
